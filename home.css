@@ -1,0 +1,83 @@
+.header{
+   background-color:blue;
+}
+.profilepic{
+    height: 70px;
+    border-radius: 50%;
+    display:blox;
+    margin: auto;
+
+}
+.homeicon{
+    height: 50px;
+    width: 50px;
+    display: block;
+    margin: auto;
+}
+.abouticon{
+    height: 50px;
+    display: block;
+    margin: auto;
+}
+.projecticon{
+    height: 50px;
+    display: block;
+    margin: auto;
+}
+.contacticon{
+    height: 50px;
+    display: block;
+    margin: auto;
+}
+.homeicon:hover{
+    background-color: rgba(0, 255, 221, 0.938);
+}
+
+.about-icon:hover{
+    background-color: rgba(0, 255, 221, 0.938);
+}
+.contact-icon:hover{
+    background-color: rgba(0, 255, 221, 0.938);
+}
+.project-icon:hover{
+    background-color: rgba(0, 255, 221, 0.938);
+}
+.profileepic{
+    height: 500px;
+    border-radius: 50%;
+    border-color:navy;
+    border-style: solid;
+    display:inline-block;
+    margin: auto; 
+   
+}
+span{
+    color: rgb(0, 255, 179);
+    font-family: cursive;
+    font-size: 50px;
+    font-weight: bold;
+}
+.Hi{
+    font-size: 30px;
+    color: rgb(0, 10, 17);
+}
+.body1{
+    text-align: center;
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(247,87,0,1) 0%, rgba(249,0,0,1) 90.1% );
+}
+.facebookiconn{
+    height: 40px;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+}
+.telegramicon{
+    height: 40px;
+    border-radius: 50%;
+}
+.tiktokicon{
+    height: 40px;
+    border-radius: 50%;
+    
+}
+

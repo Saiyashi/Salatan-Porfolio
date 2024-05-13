@@ -1,0 +1,43 @@
+.header{
+    background:blue;
+}
+.profilepic{
+    height: 70px;
+    border-radius: 50%;
+    display:blox;
+    margin: auto;
+
+}
+.homeicon{
+    height: 50px;
+    display: block;
+    margin: auto;
+}
+.abouticon{
+    height: 50px;
+    display: block;
+    margin: auto;
+}
+.projecticon{
+    height: 50px;
+    display: block;
+    margin: auto;
+}
+.contacticon{
+    height: 50px;
+    display: block;
+    margin: auto;
+}
+.home-icon:hover{
+    background-color: rgba(0, 255, 221, 0.938);
+
+}
+.about-icon:hover{
+    background-color: rgba(0, 255, 221, 0.938);
+}
+.contact-icon:hover{
+    background-color: rgba(0, 255, 221, 0.938);
+}
+.project-icon:hover{
+    background-color: rgba(0, 255, 221, 0.938);
+}

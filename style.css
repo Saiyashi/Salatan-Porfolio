@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: arial;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+nav,
+.nav-links{
+    display: flex;
+}
+nav{
+    justify-content: space-around;
+    align-items: center;
+    height: 17vh;
+}
+.nav-links{
+    gap: 2rem;
+    list-style: none;
+    font-size: 1.5rem;
+}
+a{
+    color: white;
+    text-decoration: none;
+    text-decoration-color: white;
+}
+a:hover{
+    color:red;
+    text-decoration: underline;
+    text-underline-offset: 1rem;
+    text-decoration-color: rgb(181,181,181);
+}
+.logo{
+    font-size: 2rem;
+
+}
+.logo:hover{
+    cursor: pointer;
+    color: rgba(0, 255, 221, 0.938)
+}
+.about-pic{
+    height:200px;
+}
+
+
+

@@ -1,0 +1,12 @@
+.projectss{
+    text-align: center;
+    font-size: 30px;
+    background: url(projectt.png);
+    color:yellow;
+}
+.arrowdown{
+    height: 50px;
+}
+.secc{
+    display: flexbox;
+}

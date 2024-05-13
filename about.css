@@ -1,0 +1,138 @@
+body{
+    
+}
+.about-me{
+    text-align: center;
+    font-size: 55px;
+    font-weight: bold;
+    font-family: cursive;
+    color: rgb(19, 0, 0);
+}
+.about-question{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial;
+    color: white;
+}
+.aboutprofile{
+    height: 200px;
+    border-radius: 30%;
+}
+.profilecenter{
+    text-align: center;
+}
+.helloo{
+    font-size: 30px;
+    color: white;
+
+}
+.homeicon{
+    height: 50px;
+    width: 50px;
+    display: block;
+    margin: auto;
+}
+span{
+    color: red;
+    font-weight: bold;
+    font-family: cursive;
+
+}
+.other{
+    text-align:center ;
+    color: rgb(40, 2, 255);
+    font-size: 55px;
+    font-family: cursive;
+    
+}
+.middles{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.education{
+    text-align: center;
+    font-size: 50px;
+}
+.primary{
+    text-align: center;
+    font-size: 30px;
+}
+.pnhs{
+    text-align: center;
+    font-size: 20px;
+}
+.elem{
+    text-align: center;
+    font-size: 20px;
+}
+.seniorhigh{
+    text-align: center;
+    font-size: 30px;
+}
+.donpablo{
+    text-align: center;
+    font-size: 20px;
+}
+.secondary{
+    text-align: center;
+    font-size: 30px;
+}
+.college{
+    font-family: cursive;
+    font-size: 40px;
+    text-align: center;
+    color: rgb(3, 2, 0);
+}
+.Comtech{
+    text-align: center;
+    font-size: 25px;
+    font-family: arial;
+    color: red;
+}
+.GAMES{
+    text-align: center;
+    margin-top: 50px;
+
+}
+.game{
+    height: 200px;
+    margin: auto;
+    display: flex;
+}
+.crossfire{
+    height: 100px;
+    display: inline-block;
+}
+.mobilelegend{
+    height: 100px;
+}
+.dragoncity{
+    height: 100px;
+}
+.Crossfire-container{
+    display:inline-block;
+    margin-left: 100px;
+}
+.MobileLegend-container{
+    display: inline-block;
+    margin-left:250px;
+  
+}
+.Dragoncity-containder{
+    display: inline-block;
+    margin-left: 250px;
+}
+.mottos{
+    text-align: center;
+    margin-top: 50px;
+}
+.motto{
+    text-align: center;
+    font-size: 30px;  
+}
+.moto{
+    text-align: center;
+    font-size: 20px;
+}
